@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Abdullah",
+      "mobile": "12345678900",
+      "password": "123456",
+      "Services": "Food",
+      "address": "islaabad"
+    },
+    {
+      "id": "c897",
+      "name": "Asad",
+      "mobile": "12345678922",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "a10e",
+      "name": "Abdullah Khan",
+      "mobile": "123456780000",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "d55a",
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "616e",
+      "name": "Akm",
+      "mobile": "123456789111",
+      "email": "akm@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "signup": [
+    {
+      "id": "6094",
+      "name": "Asad",
+      "mobile": "03459871235",
+      "email": "asad@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "ab8a",
+      "name": "Abdullah",
+      "mobile": "03459508357",
+      "email": "mabdullah@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
